@@ -43,11 +43,7 @@
     </a>
   </p>
   
-  <p align="center">
-    <a href="https://github.com/ionicbond12203">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ionicbond12203&theme=default" alt="GitHub Streak" />
-    </a>
-  </p>
+
 
   <!-- Snake Animation -->
   <p align="center">
