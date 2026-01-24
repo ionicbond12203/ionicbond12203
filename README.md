@@ -7,15 +7,29 @@
 
   <!-- Tech Stack -->
   <!-- Mobile & Web -->
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <a href="https://reactnative.dev/">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  </a>
+  <a href="https://expo.dev/">
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://supabase.com/">
+    <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  </a>
   
   <!-- AI & Backend -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-FF9900?style=for-the-badge&logo=robot&logoColor=black" alt="LangGraph" />
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://python.langchain.com/">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  </a>
+  <a href="https://langchain-ai.github.io/langgraph/">
+    <img src="https://img.shields.io/badge/LangGraph-FF9900?style=for-the-badge&logo=robot&logoColor=black" alt="LangGraph" />
+  </a>
 
   <br/><br/>
   
@@ -24,9 +38,6 @@
     <a href="https://github.com/ionicbond12203">
       <img src="https://github-readme-stats.vercel.app/api?username=ionicbond12203&show_icons=true&theme=radical&count_private=true&hide=c%2B%2B,c,kotlin,java" alt="Ionic's Stats" />
     </a>
-    <!-- Hiding C++ and Kotlin from Top Langs by explicitly instructing the card or just letting it reflect the new repos eventually. 
-         For now, we can hide specific languages if supported or just let the user's future work shift the balance. 
-         The &hide= parameter works for the main stats card 'hide_rank', but for top-langs it's '&hide=c%2B%2B,kotlin' -->
     <a href="https://github.com/ionicbond12203">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionicbond12203&layout=compact&theme=radical&hide=c%2B%2B,kotlin,html,css" alt="Top Languages" />
     </a>
