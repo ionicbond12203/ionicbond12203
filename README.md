@@ -45,13 +45,13 @@
   
   <p align="center">
     <a href="https://github.com/ionicbond12203">
-      <img src="https://streak-stats.demolab.com/?user=ionicbond12203&theme=default" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ionicbond12203&theme=default" alt="GitHub Streak" />
     </a>
   </p>
 
   <!-- Snake Animation -->
   <p align="center">
-    <img src="https://github.com/ionicbond12203/ionicbond12203/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+    <img src="https://raw.githubusercontent.com/ionicbond12203/ionicbond12203/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
   </p>
 </div>
 
