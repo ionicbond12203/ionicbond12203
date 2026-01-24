@@ -36,16 +36,16 @@
   <!-- Stats Cards -->
   <p align="center">
     <a href="https://github.com/ionicbond12203">
-      <img src="https://github-readme-stats.vercel.app/api?username=ionicbond12203&show_icons=true&theme=buefy&count_private=true&hide=c%2B%2B,c,kotlin,java" alt="Ionic's Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ionicbond12203&show_icons=true&theme=default&count_private=true&hide=c%2B%2B,c,kotlin,java" alt="Ionic's Stats" />
     </a>
     <a href="https://github.com/ionicbond12203">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionicbond12203&layout=compact&theme=buefy&hide=c%2B%2B,kotlin,html,css" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionicbond12203&layout=compact&theme=default&hide=c%2B%2B,kotlin,html,css" alt="Top Languages" />
     </a>
   </p>
   
   <p align="center">
     <a href="https://github.com/ionicbond12203">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ionicbond12203&theme=buefy" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ionicbond12203&theme=default" alt="GitHub Streak" />
     </a>
   </p>
 
