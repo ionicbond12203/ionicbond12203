@@ -19,15 +19,29 @@ My [merged contributions](https://github.com/Siong23/ai-co-scientist/pulls?q=is%
 - Hypothesis-guided retrieval planning, query-fidelity checks, corrective retrieval, evidence grounding, and source provenance.
 - Reliable hypothesis evolution and review routing through evidence isolation, quality gates, failure handling, and offline boundary tests.
 
+## What I'm Exploring
+
+- LLM fine-tuning workflows with **Unsloth**.
+- Agent orchestration and stateful workflows with **LangChain** and **LangGraph**.
+- Local LLM workflows, model evaluation, and reliable inference boundaries.
+- Product-facing AI systems that connect retrieval and agent workflows to usable interfaces.
+
 ## Tech Stack
 
-**AI Engineering**
+### AI Engineering
 
-`Python · LLM Systems · RAG · LangChain · LangGraph · ChromaDB · Unsloth`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**Product Engineering**
+`LLM Systems · RAG · ChromaDB · Unsloth`
 
-`React Native · Expo · TypeScript · Supabase`
+### Product Engineering
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E)
 
 ## GitHub Activity
 
