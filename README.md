@@ -33,6 +33,7 @@ My [merged contributions](https://github.com/Siong23/ai-co-scientist/pulls?q=is%
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-000000?style=flat-square&logo=unsloth&logoColor=white)
 
 `LLM Systems · RAG · ChromaDB · Unsloth`
 
